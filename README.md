@@ -4,11 +4,7 @@ Zadanie z kursu C/C++ (ALX/Warszawa/kwiecień-czerwiec 2018)
 2 Liczby zespolone
 Uwaga: w tym zadaniu kompletnie nie trzeba nic wiedziec o liczbach zespolonych.
 Zaimplementuj klase Complex, słuzaca do obliczen na liczbach zespolonych. Liczba zespolona to para (r; i)
-(odpowiednio: czesc rzeczywista i urojona). Definiujemy nastepujace operacje na liczbach zespolonych:
- Dodawanie:
- Odejmowanie:
- Mnozenie:
- Dzielenie:
+(odpowiednio: czesc rzeczywista i urojona). Definiujemy nastepujace operacje na liczbach zespolonych: dodawanie, odejmowanie, mnozenie, dzielenie
 
 Do liczby zespolonej mozna dodac, odjac, mnozyc i dzielic takze liczby rzeczywiste. Dowolna liczba rzeczywista
 x jest po prostu traktowana jako liczba zespolona (x; 0).
